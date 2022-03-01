@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[1,1,2,3,0],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ham","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor4_2","characterIndex":0,"characterName":"Actor5","classId":3,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"Actor5","traits":[],"initialLevel":3,"maxLevel":99,"name":"piloto","nickname":"","note":"","profile":""}
+]
