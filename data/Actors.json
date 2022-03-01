@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"zeug","characterIndex":0,"characterName":"zeug","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Zeug","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ham","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":3,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":5,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+]
